@@ -1,2 +1,3 @@
-Science Background.tex
+
+figures/327PUPPI_sensitivity/327PUPPI_sensitivity.pngScience Background.tex
 figures/knownmsps/knownmsps.png
