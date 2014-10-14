@@ -1,0 +1,13 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Bastian} {et~al.}(2010){Bastian}, {Covey}, \& {Meyer}}]{Bastian10}
+{Bastian}, N., {Covey}, K.~R., \& {Meyer}, M.~R. 2010, \araa, 48, 339
+
+\bibitem[{{Chabrier}(2003)}]{Chabrier03}
+{Chabrier}, G. 2003, \pasp, 115, 763
+
+\bibitem[{{Kroupa}(2001)}]{Kroupa01}
+{Kroupa}, P. 2001, \mnras, 322, 231
+
+\end{thebibliography}
