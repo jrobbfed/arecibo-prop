@@ -7,7 +7,18 @@
 \bibitem[{{Chabrier}(2003)}]{Chabrier03}
 {Chabrier}, G. 2003, \pasp, 115, 763
 
+\bibitem[{{Heger} {et~al.}(2003){Heger}, {Fryer}, {Woosley}, {Langer}, \&
+  {Hartmann}}]{Heger03}
+{Heger}, A., {Fryer}, C.~L., {Woosley}, S.~E., {Langer}, N., \& {Hartmann},
+  D.~H. 2003, \apj, 591, 288
+
+\bibitem[{{Hernandez}(2012)}]{Hernandez12}
+{Hernandez}, X. 2012, \mnras, 420, 1183
+
 \bibitem[{{Kroupa}(2001)}]{Kroupa01}
 {Kroupa}, P. 2001, \mnras, 322, 231
+
+\bibitem[{{Salpeter}(1955)}]{Salpeter55}
+{Salpeter}, E.~E. 1955, \apj, 121, 161
 
 \end{thebibliography}
